@@ -18,5 +18,5 @@ elif promedio >=90 :
 elif promedio >=100:
     print ("¡Excelente!")
 else:
-    print("reprobaste :(")
+    print("a hola")
 print("fin")
